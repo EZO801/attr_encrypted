@@ -1,5 +1,6 @@
 # attr_encrypted
 [![Build Status](https://secure.travis-ci.org/attr-encrypted/attr_encrypted.svg)](https://travis-ci.org/attr-encrypted/attr_encrypted) [![Test Coverage](https://codeclimate.com/github/attr-encrypted/attr_encrypted/badges/coverage.svg)](https://codeclimate.com/github/attr-encrypted/attr_encrypted/coverage) [![Code Climate](https://codeclimate.com/github/attr-encrypted/attr_encrypted/badges/gpa.svg)](https://codeclimate.com/github/attr-encrypted/attr_encrypted) [![Gem Version](https://badge.fury.io/rb/attr_encrypted.svg)](https://badge.fury.io/rb/attr_encrypted) [![security](https://hakiri.io/github/attr-encrypted/attr_encrypted/master.svg)](https://hakiri.io/github/attr-encrypted/attr_encrypted/master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fattr_encrypted.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fattr_encrypted?ref=badge_shield)
 
 Generates attr_accessors that transparently encrypt and decrypt attributes.
 
@@ -453,3 +454,7 @@ Lastly, while the `:per_attribute_iv_and_salt` mode is more secure than `:per_at
   future version unintentionally.
 * Commit, do not mess with rakefile, version, changelog, or history.
 * Send me a pull request. Bonus points for topic branches.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fattr_encrypted.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fattr_encrypted?ref=badge_large)
